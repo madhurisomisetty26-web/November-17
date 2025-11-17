@@ -1,0 +1,29 @@
+
+thead th{
+width:100px;
+height:100px;
+
+}
+
+tbody td{
+
+  color:gray;
+}
+img{
+  width: 100px;
+  height: 100px;
+
+}
+.FullName-box{
+  width:100px;
+  height:100px;
+  text-align: center;
+  border: 10px;
+  box-sizing: 5px;
+  padding: 10px;
+}
+
+
+
+
+  
